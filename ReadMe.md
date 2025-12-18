@@ -4,7 +4,7 @@ A HID driver that includes a virtual mouse, keyboard, and an additional mouse wi
 
 ## Installation 
 
-1. Download and extract the `VirtualMouse-Driver_Installer.zip` file.  
+1. Download and extract the `VirtualInput-Driver_Installer.zip` file.  
 2. Follow the simple instructions in the `Install_Uninstall_Instructions.txt` file, in the extracted folder, to install/uninstall the driver.  
 
 ## Credits
