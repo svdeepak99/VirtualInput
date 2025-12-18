@@ -4,8 +4,9 @@ A HID driver that includes a virtual mouse, keyboard, and an additional mouse wi
 
 ## Installation 
 
-1. Download and extract the `VirtualInput-Driver_Installer.zip` file.  
-2. Follow the simple instructions in the `Install_Uninstall_Instructions.txt` file, in the extracted folder, to install/uninstall the driver.  
+1. Run `bcdedit /set testsigning on` (with cmd as admin) to enable test mode, then reboot your system.
+2. Download and extract the `VirtualInput-Driver_Installer.zip` file.
+3. Follow the simple instructions in the `Install_Uninstall_Instructions.txt` file, in the extracted folder, to install/uninstall the driver.
 
 ## Credits
 
